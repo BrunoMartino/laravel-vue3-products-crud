@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Laravel - Vue3 - Starter Kit - Crud simples de Produtos
 
 Este é um projeto Laravel com Vue 3 que utiliza o Starter Kit oficial com TypeScript, Inertia.js, Tailwind CSS v4, ShadCN UI e Eloquent ORM. O ambiente de desenvolvimento é gerenciado com Laravel Sail e Docker.
 
